@@ -16,10 +16,15 @@
 
   .contact-form .form-control {
     padding: 15px;
+    font-size: 16px;
   }
 
   .contact-info {
     line-height: 2;
+  }
+
+  .contact-submit-btn {
+    font-size: 16px;
   }
 
   #footer .socials-list {
@@ -88,6 +93,10 @@
 
   #nav > li:first-child {
     display: inline-block;
+  }
+  #slider .text-heading,
+  #slider .text-description {
+    display: none;
   }
 
   #content .member-item {
